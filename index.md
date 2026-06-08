@@ -17,7 +17,7 @@ A home lab simulating a real enterprise helpdesk environment — osTicket deploy
 ## Lab Environment
 
 - **Ticketing System:** osTicket
-- **Server OS:** Ubuntu Server 24.04 LTS
+- **Server OS:** Ubuntu Server 26.04 LTS
 - **Hypervisor:** Microsoft Hyper-V
 - **AD Integration:** LDAP → existing Windows Server domain
 
